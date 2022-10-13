@@ -48,7 +48,7 @@ export default [
   {
     name: 'problem-list',
     path: '/problem',
-    meta: {title: 'Problem List'},
+    meta: {title: 'Problem_List'},
     component: ProblemList
   },
   {
